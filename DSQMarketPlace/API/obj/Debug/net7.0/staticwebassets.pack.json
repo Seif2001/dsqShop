@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\elsha\\source\\repos\\DSQMarketPlace\\API\\wwwroot\\images\\Merchants\\adidas.png",
+      "PackagePath": "staticwebassets\\images\\Merchants\\adidas.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\source\\repos\\DSQMarketPlace\\API\\wwwroot\\images\\Merchants\\almokhtabar.png",
+      "PackagePath": "staticwebassets\\images\\Merchants\\almokhtabar.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\source\\repos\\DSQMarketPlace\\API\\wwwroot\\images\\Merchants\\btech.png",
+      "PackagePath": "staticwebassets\\images\\Merchants\\btech.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\source\\repos\\DSQMarketPlace\\API\\wwwroot\\images\\Merchants\\carrefour.png",
+      "PackagePath": "staticwebassets\\images\\Merchants\\carrefour.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\source\\repos\\DSQMarketPlace\\API\\wwwroot\\images\\Merchants\\cilantro.png",
+      "PackagePath": "staticwebassets\\images\\Merchants\\cilantro.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\source\\repos\\DSQMarketPlace\\API\\wwwroot\\images\\Merchants\\costa.png",
+      "PackagePath": "staticwebassets\\images\\Merchants\\costa.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\source\\repos\\DSQMarketPlace\\API\\wwwroot\\images\\Merchants\\kfc.png",
+      "PackagePath": "staticwebassets\\images\\Merchants\\kfc.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\source\\repos\\DSQMarketPlace\\API\\wwwroot\\images\\Merchants\\mcdonalds.png",
+      "PackagePath": "staticwebassets\\images\\Merchants\\mcdonalds.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\source\\repos\\DSQMarketPlace\\API\\wwwroot\\images\\Merchants\\pizzahut.png",
+      "PackagePath": "staticwebassets\\images\\Merchants\\pizzahut.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\source\\repos\\DSQMarketPlace\\API\\wwwroot\\images\\Merchants\\radioshack.png",
+      "PackagePath": "staticwebassets\\images\\Merchants\\radioshack.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\source\\repos\\DSQMarketPlace\\API\\wwwroot\\images\\Merchants\\spinneys.png",
+      "PackagePath": "staticwebassets\\images\\Merchants\\spinneys.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\source\\repos\\DSQMarketPlace\\API\\wwwroot\\images\\Merchants\\starbucks.png",
+      "PackagePath": "staticwebassets\\images\\Merchants\\starbucks.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\source\\repos\\DSQMarketPlace\\API\\wwwroot\\images\\Merchants\\virgin.png",
+      "PackagePath": "staticwebassets\\images\\Merchants\\virgin.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

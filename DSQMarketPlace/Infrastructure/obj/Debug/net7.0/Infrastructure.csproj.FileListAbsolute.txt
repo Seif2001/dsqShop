@@ -1,0 +1,14 @@
+C:\Users\elsha\source\repos\DSQMarketPlace\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\elsha\source\repos\DSQMarketPlace\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+C:\Users\elsha\source\repos\DSQMarketPlace\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\elsha\source\repos\DSQMarketPlace\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\elsha\source\repos\DSQMarketPlace\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\elsha\source\repos\DSQMarketPlace\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsha\source\repos\DSQMarketPlace\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\elsha\source\repos\DSQMarketPlace\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\elsha\source\repos\DSQMarketPlace\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\elsha\source\repos\DSQMarketPlace\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\elsha\source\repos\DSQMarketPlace\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\elsha\source\repos\DSQMarketPlace\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\elsha\source\repos\DSQMarketPlace\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+C:\Users\elsha\source\repos\DSQMarketPlace\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
